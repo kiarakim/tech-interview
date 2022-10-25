@@ -1,2 +1,3 @@
-# tech-interview
-Technical-Interview
+# Tech Interview for Developer
+
+let's start!
