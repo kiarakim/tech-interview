@@ -18,6 +18,8 @@
 ### DHCP
 ### 서브넷 마스크와 게이트웨이
 ### 소켓
+TCP Socket이라고 했을 때, TCP를 User Mode Application이 접근할 수 있도록 File 형식으로 추상화 한 인터페이스.
+
 
 ## HTTP Concepts
 ### HTTP
